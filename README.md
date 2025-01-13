@@ -11,7 +11,7 @@
 
 - 📝 I write articles on [https://hashnode.com/@aaryan-sd](https://hashnode.com/@aaryan-sd)
 
-- 💬 Ask me about **MERN Stack, Linux**
+- 💬 Ask me about **MERN Stack, Linux, DevOps**
 
 - 📫 How to reach me **aaryandaiv@gmail.com**
 
