@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aaryan_sd" target="blank"><img src="https://img.shields.io/twitter/follow/aaryan_sd?logo=twitter&style=for-the-badge" alt="aaryan_sd" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m **DevOps Engineer / Linux Admin**
 
 - 👨‍💻 All of my projects are available at [https://aaryan-daiv.netlify.app/](https://aaryan-daiv.netlify.app/)
 
