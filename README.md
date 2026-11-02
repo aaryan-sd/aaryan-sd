@@ -1,4 +1,4 @@
-a<h1 align="center">Hi 👋, I'm Aaryan Daiv</h1>
+<h1 align="center">Hi 👋, I'm Aaryan Daiv</h1>
 <h3 align="center">I am a Tech Enthusiast. I love exploring open-source technologies and working on challenging projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryan-sd&label=Profile%20views&color=0e75b6&style=flat" alt="aaryan-sd" /> </p>
